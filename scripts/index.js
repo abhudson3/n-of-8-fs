@@ -35,6 +35,7 @@ async function expand(id){
     });
 }
 
+
 // <button data-bs-toggle="modal" data-bs-target="#infoModel" onclick="updateModel(${person.fname}, ${person.lname}, ${person.email}, ${person.position}, ${person.locationcode}, ${person.location})">My Info</button>
 
 function updateModel(firstName, lastName, email, desc, locationCode, locationDesc){
